@@ -6,7 +6,7 @@ Api em Node.js
 
 Api em Node.js para ser usado no back end de uma aplicação em Angular.
 
-### Pré-requisito
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
